@@ -9,6 +9,14 @@
         <em:creator>Mikhail Kyosev</em:creator>
         <em:description>Bulgarian (bg-BG) Spellchecker</em:description>
 
+        <em:localized>
+            <Description>
+                <em:locale>bg-BG</em:locale>
+                <em:name>Bulgarian Spellchecker</em:name>
+                <em:description>Проверка за правопис на български език.</em:description>
+            </Description>
+        </em:localized>
+
         <!-- Firefox -->
         <em:targetApplication>
             <Description>
